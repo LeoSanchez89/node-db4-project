@@ -3,9 +3,9 @@ exports.seed = async function (knex) {
  
   const recipeData = [
 		
-    { colName: "rowValue1" },
-    { colName: "rowValue2" },
-    { colName: "rowValue3" }
+    { name: "Pizza" },
+    { name: "PB&J Sandwich" },
+    { name: "Spaghetti Bolognese" }
 		
   ];
   
